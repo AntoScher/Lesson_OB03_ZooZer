@@ -1,5 +1,13 @@
 Animals:
 Sparrow, 1
+Lion, 5
+Snake, 2
+Tiger, 8
+Elephant, 12
 
 People:
 Eve
+Bob
+Alice
+John
+Emily
